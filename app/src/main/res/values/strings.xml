@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomDilog</string>
+    <string name="dilog_show">Dilog Show</string>
+    <string name="back_to_listings">Back to Listings?</string>
+    <string name="condition">If you leave the checkout your passenger Information Will not be saved.</string>
+
+
+</resources>
